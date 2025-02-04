@@ -1,0 +1,78 @@
+{
+  "docs": {
+    "Introduction": [
+      "getting-started/introduction",
+      "getting-started/how-to-choose",
+      "getting-started/getting-started",
+      "getting-started/getting-started-with-docker",
+      "getting-started/linux-deployment",
+      "getting-started/cli"
+    ],
+    "GPT Researcher": [
+      "gpt-researcher/gptr/config",
+      "gpt-researcher/gptr/example",
+      "gpt-researcher/gptr/npm-package",
+      "gpt-researcher/gptr/pip-package",
+      "gpt-researcher/gptr/querying-the-backend",
+      "gpt-researcher/gptr/scraping",
+      "gpt-researcher/gptr/troubleshooting",
+      "gpt-researcher/gptr/automated-tests",
+      "gpt-researcher/context/data-ingestion",
+      "gpt-researcher/context/filtering-by-domain",
+      "gpt-researcher/context/local-docs",
+      "gpt-researcher/context/tailored-research",
+      "gpt-researcher/context/vector-stores",
+      "gpt-researcher/frontend/discord-bot",
+      "gpt-researcher/frontend/introduction",
+      "gpt-researcher/frontend/nextjs-frontend",
+      "gpt-researcher/frontend/vanilla-js-frontend",
+      "gpt-researcher/frontend/visualizing-websockets",
+      "gpt-researcher/getting-started/cli",
+      "gpt-researcher/getting-started/getting-started-with-docker",
+      "gpt-researcher/getting-started/getting-started",
+      "gpt-researcher/getting-started/how-to-choose",
+      "gpt-researcher/getting-started/introduction",
+      "gpt-researcher/getting-started/linux-deployment",
+      "gpt-researcher/handling-logs/all-about-logs",
+      "gpt-researcher/handling-logs/langsmith-logs",
+      "gpt-researcher/handling-logs/simple-logs-example",
+      "gpt-researcher/llms/llms",
+      "gpt-researcher/llms/running-with-azure",
+      "gpt-researcher/llms/running-with-ollama",
+      "gpt-researcher/llms/supported-llms",
+      "gpt-researcher/llms/testing-your-llm",
+      "gpt-researcher/multi_agents/langgraph",
+      "gpt-researcher/search-engines/retrievers",
+      "gpt-researcher/search-engines/test-your-retriever"
+    ],
+    "Examples": [
+      "examples/detailed_report",
+      "examples/examples",
+      "examples/hybrid_research",
+      "examples/pip-run",
+      "examples/sample_report",
+      "examples/sample_sources_only"
+    ],
+    "Reference": [
+      "reference/config/config",
+      "reference/config/singleton",
+      "reference/processing/html",
+      "reference/processing/text"
+    ],
+    "Contribute": [
+      "contribute"
+    ],
+    "FAQ": [
+      "faq"
+    ],
+    "Roadmap": [
+      "roadmap"
+    ],
+    "Welcome": [
+      "welcome"
+    ],
+    "Agenten und Prompts": [
+      "agents_and_prompts"
+    ]
+  }
+}
